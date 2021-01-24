@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 mr azeddine
+=======
+
+hello
+>>>>>>> ca1486d (c)
